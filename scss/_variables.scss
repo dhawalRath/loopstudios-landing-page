@@ -1,0 +1,23 @@
+// colors
+$white: hsl(0, 0%, 100%);
+$black: hsl(0, 0%, 0%);
+$dark-gray: hsl(0, 0%, 55%);
+$very-dark-gray: hsl(0, 0%, 41%);
+
+// font-families
+$font-family-1: 'Alata', sans-serif;
+$font-family-2: 'Josefin Sans', sans-serif;
+
+// font-weights
+$font-weights: (
+  "thin": 300,
+  "regular": 400
+);
+
+// font-sizes
+h1{font-size: 2rem;}
+h2{font-size: 1.5rem;}
+h3{font-size: 1.125rem;}
+h4{font-size: 1rem;}
+h5{font-size: 0.8125rem;}
+h6{font-size: 0.625rem;}
