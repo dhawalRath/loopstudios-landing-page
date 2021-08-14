@@ -6,15 +6,14 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ## :camera: Overview
 
-![desktop](./screenshots/desktop.png) 
-![mobile](./screenshots/mobile.png) 
+![desktop](./desktop.png) 
 
 
 ## 💪 Built with
 
 - Semantic HTML5 markup
 - CSS3 (with Grid and Flexbox)
-- SASS
+- SCSS
 - JavaScript (for mobile-menu and date)
 - Media Queries (for Mobile design)
 
